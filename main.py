@@ -5,14 +5,11 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.autograd import Variable
 import torchvision.transforms as transforms
-from data.cifar import CIFAR10, CIFAR100
 from data.mnist import MNIST
-from model import CNN
 import argparse, sys
 import numpy as np
 import datetime
 import shutil
-#from net import Net
 
 
 
