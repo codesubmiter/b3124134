@@ -1,4 +1,6 @@
-![1](https://github.com/codesubmiter/b3124134/blob/master/data/AI_2020-01-24-12-57-44-715.png)
+![1](https://github.com/codesubmiter/b3124134/blob/master/data/AI_2020-01-24-12-57-44-715.jpg)  
+![2](https://github.com/codesubmiter/b3124134/blob/master/data/AI_2020-01-24-13-09-17-356.jpg)  
+
 
 
 
